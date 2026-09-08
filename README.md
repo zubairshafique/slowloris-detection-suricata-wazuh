@@ -1,4 +1,4 @@
-# lowloris-detection-suricata-wazuh
+# slowloris-detection-suricata-wazuh
 Real-time SlowLoris DoS detection &amp; auto-block using Suricata, Wazuh &amp; n8n.
 
 # Automated SlowLoris Attack Detection & Mitigation (SOAR Workflow)
